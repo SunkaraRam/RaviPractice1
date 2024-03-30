@@ -5,6 +5,7 @@ public class Test2 {
 		
 		
 		System.out.println("This method is from test2");
+		System.out.println("Just added another line");
 
 	}
 
